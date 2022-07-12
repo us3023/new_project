@@ -1,1 +1,3 @@
 Hi my name is Utkarsh
+we r learning git branch and commit
+branching is to create logical tree
